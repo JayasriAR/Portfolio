@@ -95,6 +95,10 @@ padding-left: 5px;
     width:200px;
     height:200px;
 }
+.mernpic{
+    width:264px;
+    height:75px;
+}
 .progress-bar
 {
     background-color: #CD5888;
@@ -159,21 +163,31 @@ a:hover{
 .blink-text {
     animation: blink 2s infinite; /* Infinite blinking animation */
 }
-
+.navbar-toggler-icon{
+    background-color: #CD5888 !important;
+}
 #slider{
     width: 100%;
     min-height: 10vh;
 }
 
+.color1{
+    background-color: #CD5888 !important;;
+}
 .slider-content{
     width: 100%;
-    min-height: 100vh;
+    min-height: 110vh;
 }
 
 .font-fam2{
     color:white;
     background-color: #00000083;
     font-family: 'Poppins',sans-serif;
+}
+.font-fam3{
+    color:#d8216d;
+    font-family: 'Poppins',sans-serif;
+    font-size:25px;
 }
 #activities{
     background-color: #E9E8E8;
